@@ -99,3 +99,18 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.DS_Store
+*/log/
+log/
+save/
+data/
+figure/
+scm-source.json
+research-lab-docker
+tunnel-*.sh
+test.yaml
+/.idea/
+*.iml
+test*.py
+senza.yaml
